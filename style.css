@@ -56,17 +56,21 @@ nav a:hover {
   text-align: center;
 }
 
-/* Footer links */
 .footer a {
   color: white;
   margin: 0 15px;
-  text-align: center;
   text-decoration: none;
   font-weight: bold;
 }
 
-/* Hover effect */
 .footer a:hover {
   text-decoration: underline;
 }
+
+.footer-text {
+  color: white;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
 
