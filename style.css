@@ -8,6 +8,9 @@ h1 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
 /* Navigation bar stays centered */
 nav {
   background: #627a8a;
