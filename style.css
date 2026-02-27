@@ -71,6 +71,7 @@ nav a:hover {
 .footer-text {
   color: white;
   margin: 0 15px;
+  align-items: center;
   font-weight: bold;
 }
 
